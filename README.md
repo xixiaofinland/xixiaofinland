@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Xi Xiao 👋
 
-<!--
-**xixiaofinland/xixiaofinland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Salesforce Developer | ML/AI Learner | Rust Enthusiast  
+Based in Helsinki 🇫🇮
 
-Here are some ideas to get you started:
+I focus on building developer tools, learning applied AI, and exploring systems-level programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🧩 sf.nvim — Salesforce Development in Neovim
+👉 https://github.com/xixiaofinland/sf.nvim
+
+### ✨ Apex Formatter
+👉 https://github.com/xixiaofinland/sf.nvim
+
+---
+
+## 🎙 Community & Content
+
+- 🎧 Salesforce Tech Podcast:  
+  https://salesforceway.com/podcast/
+
+- ✍️ Personal Blog:  
+  https://xixiaofinland.com/
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xixiaofinland&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xixiaofinland&layout=compact)
+
+---
+
+## 🤝 Let’s Connect on LinkedIn
+
+- 🌐 https://www.linkedin.com/in/xixiaofinland/
