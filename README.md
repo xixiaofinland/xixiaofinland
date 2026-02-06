@@ -27,6 +27,6 @@ I focus on building developer tools, learning applied AI, and exploring systems-
 
 ---
 
-## 🤝 Let’s Connect on LinkedIn
+## 🤝 Let’s Connect 
 
-- 🌐 https://www.linkedin.com/in/xixiaofinland/
+- 🌐 [LinkedIn](https://www.linkedin.com/in/xixiaofinland/])
