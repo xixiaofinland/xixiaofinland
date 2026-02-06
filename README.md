@@ -9,11 +9,11 @@ I focus on building developer tools, learning applied AI, and exploring systems-
 
 ## 🚀 Featured Projects
 
-### 🧩 sf.nvim — Salesforce Development in Neovim
-👉 https://github.com/xixiaofinland/sf.nvim
+- 🧩 sf.nvim — Salesforce Development in Neovim
+  https://github.com/xixiaofinland/sf.nvim
 
-### ✨ Apex Formatter
-👉 https://github.com/xixiaofinland/sf.nvim
+- ✨ Apex Formatter
+  https://github.com/xixiaofinland/sf.nvim
 
 ---
 
