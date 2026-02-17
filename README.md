@@ -13,7 +13,7 @@ I focus on building developer tools, learning applied AI, and exploring systems-
   https://github.com/xixiaofinland/sf.nvim
 
 - ✨ Apex Formatter
-  https://github.com/xixiaofinland/sf.nvim
+  https://github.com/xixiaofinland/afmt
 
 ---
 
